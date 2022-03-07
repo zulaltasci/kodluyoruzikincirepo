@@ -1,0 +1,27 @@
+h1 {
+    color: red;
+}
+
+a {
+    text-align: center;
+}
+
+h2 {
+    color: blueviolet;
+}
+
+h3 {
+    color: rgb(175, 175, 66);
+}
+
+ul {
+    list-style-position: inside;
+}
+
+body {
+    text-align: center;
+}
+
+ol {
+    list-style-position: inside;
+}
